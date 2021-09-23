@@ -1,4 +1,4 @@
-# QR-Attendance
+# QR-Attendance ---- PENDING
 
 working on it!!
 
